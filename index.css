@@ -1,0 +1,35 @@
+.registration-form {
+  width: 65%;
+  margin: 10px auto;
+}
+
+.gender {
+  display: flex;
+  justify-content: center;
+
+}
+
+.select {
+  display: flex;
+  justify-content: center;
+
+}
+
+.form-select {
+  width: 60%;
+  margin: auto;
+}
+
+.container {
+  margin: 30px auto;
+  width: 75%;
+  background-color: #fff;
+  padding: 25px 30px;
+  border-radius: 10px 40px 10px 40px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+  font-family: serif;
+}
+
+body {
+  background: linear-gradient(90deg, #71b7e6, #9b59b6);
+}
